@@ -5,4 +5,4 @@ In automated-tests in Assist-Masterclass-exercise-Test Cases Documentation you w
 In the same xlsm file you will also find the extra test cases, they start from the row 7 to 10 included.
 
 
-In automated-tests in cypress you will find the automated test cases.
+In automated-tests in cypress in the e2e folder -Assist-Masterclass-exercise folder, you will find the automated test cases.
